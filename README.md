@@ -17,7 +17,7 @@ Sau khi chạy xong, ta sẽ thu được data trong folder output gồm:
 ```
 - Transform:
 ```bash
-  run D:/trang/doan/DoAn1/mdpi_crawler/etl/mdpi_extract.ipynb
+  run D:/trang/doan/DoAn1/mdpi_crawler/etl/mdpi_transform.ipynb
 ```
 - Load:
 ```bash
